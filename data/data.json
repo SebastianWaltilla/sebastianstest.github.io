@@ -79,7 +79,7 @@
     "alt": "link to https://vuejs.org/",
     "src": "skills/VUE.png",
     "class": "skills_img",
-    "infoText": "Vi kommer i nuvarande kurs få lära oss att skriva backend och webserver i Vue, återkom för demo!"
+    "infoText": "Vi har under vår frontendkurs gjort ett matematikspel med multiplayerfunktion. Backend med node och frontend med vue. Vi använde oss av Herokus platform för publicering där vi använde deras postgresdatabas. "
   }
   ]
   }
